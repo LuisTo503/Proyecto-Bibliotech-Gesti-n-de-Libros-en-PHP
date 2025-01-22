@@ -1,0 +1,3 @@
+Roles:
+Administrador: 'admin' y Pass: 'admin123'
+Alumno: 'student' y Pass: 'student123'

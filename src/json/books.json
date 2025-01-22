@@ -1,0 +1,290 @@
+{
+    "0": {
+        "id": 1,
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "book_title": "Cien a\u00f1os de soledad",
+        "year_of_publication": "1967",
+        "isbn": "978-3-16-148410-0",
+        "existence": 3,
+        "category": "Novela"
+    },
+    "1": {
+        "id": 2,
+        "author": "Jorge Luis Borges",
+        "book_title": "Ficciones",
+        "year_of_publication": "1944",
+        "isbn": "978-3-16-148410-1",
+        "existence": 0,
+        "category": "Novela"
+    },
+    "2": {
+        "id": 3,
+        "author": "Julio Cort\u00e1zar",
+        "book_title": "Rayuela",
+        "year_of_publication": "1963",
+        "isbn": "978-3-16-148410-2",
+        "existence": 1,
+        "category": "Novela"
+    },
+    "3": {
+        "id": 4,
+        "author": "Mario Vargas Llosa",
+        "book_title": "La ciudad y los perros",
+        "year_of_publication": 1963,
+        "isbn": "978-3-16-148410-3",
+        "existence": 1,
+        "category": "Novela"
+    },
+    "4": {
+        "id": 5,
+        "author": "Pablo Neruda",
+        "book_title": "Veinte poemas de amor y una canci\u00f3n desesperada",
+        "year_of_publication": 1924,
+        "isbn": "978-3-16-148410-4",
+        "existence": 0,
+        "category": "Novela"
+    },
+    "5": {
+        "id": 6,
+        "author": "Isabel Allende",
+        "book_title": "La casa de los esp\u00edritus",
+        "year_of_publication": 1982,
+        "isbn": "978-3-16-148410-5",
+        "existence": 5,
+        "category": "Novela"
+    },
+    "6": {
+        "id": 7,
+        "author": "Carlos Fuentes",
+        "book_title": "La muerte de Artemio Cruz",
+        "year_of_publication": 1962,
+        "isbn": "978-3-16-148410-6",
+        "existence": 6,
+        "category": "Novela"
+    },
+    "7": {
+        "id": 8,
+        "author": "Laura Esquivel",
+        "book_title": "Como agua para chocolate",
+        "year_of_publication": 1989,
+        "isbn": "978-3-16-148410-7",
+        "existence": 1,
+        "category": "Novela"
+    },
+    "8": {
+        "id": 9,
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "book_title": "El amor en los tiempos del c\u00f3lera",
+        "year_of_publication": 1985,
+        "isbn": "978-3-16-148410-8",
+        "existence": 2,
+        "category": "Novela"
+    },
+    "9": {
+        "id": 10,
+        "author": "Juli\u00e1n R\u00edos",
+        "book_title": "La casa de la memoria",
+        "year_of_publication": 1990,
+        "isbn": "978-3-16-148410-9",
+        "existence": 5,
+        "category": "Novela"
+    },
+    "10": {
+        "id": 11,
+        "author": "Alfonso Reyes",
+        "book_title": "Visi\u00f3n de An\u00e1huac",
+        "year_of_publication": 1940,
+        "isbn": "978-3-16-148411-0",
+        "existence": 2,
+        "category": "Novela"
+    },
+    "11": {
+        "id": 12,
+        "author": "Octavio Paz",
+        "book_title": "El laberinto de la soledad",
+        "year_of_publication": 1950,
+        "isbn": "978-3-16-148411-1",
+        "existence": 4,
+        "category": "Novela"
+    },
+    "12": {
+        "id": 13,
+        "author": "Rosa Montero",
+        "book_title": "La hija del can\u00edbal",
+        "year_of_publication": 1997,
+        "isbn": "978-3-16-148411-2",
+        "existence": 5,
+        "category": "Novela"
+    },
+    "13": {
+        "id": 14,
+        "author": "Fernando del Paso",
+        "book_title": "Noticias del imperios",
+        "year_of_publication": 1992,
+        "isbn": "978-3-16-148411-3",
+        "existence": 5,
+        "category": "Novela"
+    },
+    "14": {
+        "id": 15,
+        "author": "Santiago Posteguillo",
+        "book_title": "Africanus: El hijo del c\u00f3nsul",
+        "year_of_publication": 2008,
+        "isbn": "978-3-16-148411-4",
+        "existence": 5,
+        "category": "Novela"
+    },
+    "15": {
+        "id": 16,
+        "author": "Arturo P\u00e9rez-Reverte",
+        "book_title": "El husar",
+        "year_of_publication": 1993,
+        "isbn": "978-3-16-148411-5",
+        "existence": 3,
+        "category": "Novela"
+    },
+    "16": {
+        "id": 17,
+        "author": "Javier Mar\u00edas",
+        "book_title": "Los enamoramientos",
+        "year_of_publication": 2011,
+        "isbn": "978-3-16-148411-6",
+        "existence": 3,
+        "category": "Novela"
+    },
+    "17": {
+        "id": 18,
+        "author": "Mar\u00eda Due\u00f1as",
+        "book_title": "La templanza",
+        "year_of_publication": 2015,
+        "isbn": "978-3-16-148411-7",
+        "existence": 3,
+        "category": "Novela"
+    },
+    "18": {
+        "id": 19,
+        "author": "Carlos Ruiz Zaf\u00f3n",
+        "book_title": "La sombra del viento",
+        "year_of_publication": 2001,
+        "isbn": "978-3-16-148411-8",
+        "existence": 5,
+        "category": "Novela"
+    },
+    "19": {
+        "id": 20,
+        "author": "Mario Benedetti",
+        "book_title": "La tregua",
+        "year_of_publication": 1960,
+        "isbn": "978-3-16-148411-9",
+        "existence": 3,
+        "category": "Novela"
+    },
+    "20": {
+        "id": 21,
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "book_title": "Cr\u00f3nica de una muerte anunciada",
+        "year_of_publication": 1981,
+        "isbn": "978-3-16-148412-0",
+        "existence": 2,
+        "category": "Novela"
+    },
+    "21": {
+        "id": 22,
+        "author": "Claudia Pi\u00f1eiro",
+        "book_title": "Las viudas de los jueves",
+        "year_of_publication": 2005,
+        "isbn": "978-3-16-148412-1",
+        "existence": 1,
+        "category": "Novela"
+    },
+    "22": {
+        "id": 23,
+        "author": "Ana Mar\u00eda Matute",
+        "book_title": "Olvidado Rey Gud\u00fa",
+        "year_of_publication": 1996,
+        "isbn": "978-3-16-148412-2",
+        "existence": 2,
+        "category": "Novela"
+    },
+    "23": {
+        "id": 24,
+        "author": "Jos\u00e9 Saramago",
+        "book_title": "Ensayo sobre la ceguera",
+        "year_of_publication": 1995,
+        "isbn": "978-3-16-148412-3",
+        "existence": 3,
+        "category": "Novela"
+    },
+    "24": {
+        "id": 25,
+        "author": "Hermann Hesse",
+        "book_title": "El lobo estepario",
+        "year_of_publication": "1927",
+        "isbn": "978-3-16-148412-4",
+        "existence": 9,
+        "category": "Novela"
+    },
+    "25": {
+        "id": "678ca0e5202da",
+        "book_title": "Amores",
+        "author": "Luis Tobar",
+        "category": "Ficci\u00f3n",
+        "year_of_publication": "2024",
+        "isbn": "923-0307474722",
+        "existence": 5
+    },
+    "26": {
+        "id": "678cba0f012cc",
+        "book_title": "Chupa Cabras",
+        "author": "El Diablo",
+        "category": "Ficci\u00f3n",
+        "year_of_publication": "1975",
+        "isbn": "900-0307474728",
+        "existence": 2
+    },
+    "27": {
+        "id": "678cbaaab4ba0",
+        "book_title": "Vaca",
+        "author": "Vaca Negra",
+        "category": "Ficci\u00f3n",
+        "year_of_publication": "2000",
+        "isbn": "923-0307474748",
+        "existence": 1
+    },
+    "28": {
+        "id": "678cbdf98ebe1",
+        "book_title": "Amores Perros",
+        "author": "y.o",
+        "category": "Policiaca",
+        "year_of_publication": "1980",
+        "isbn": "923-0307474710",
+        "existence": 2
+    },
+    "29": {
+        "id": "678cc12ab548e",
+        "book_title": "Las Ranas",
+        "author": "Ignacio",
+        "category": "Cuento",
+        "year_of_publication": "1975",
+        "isbn": "923-0307474720",
+        "existence": 3
+    },
+    "30": {
+        "id": "678cc5e24d170",
+        "book_title": "Los Gatos",
+        "author": "GAtito",
+        "category": "Cuento",
+        "year_of_publication": "1980",
+        "isbn": "723-0307474728",
+        "existence": 5
+    },
+    "32": {
+        "id": "67916d4175453",
+        "book_title": "Palitos Rotos",
+        "author": "Luis Tobar",
+        "category": "Cuento",
+        "year_of_publication": "2020",
+        "isbn": "978-3-16-148410-100",
+        "existence": 11
+    }
+}
