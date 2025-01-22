@@ -55,24 +55,6 @@ library-management-system
 └── config.php
 ```
 
-´´´
-Explicación
-src: Contiene las clases y controladores del proyecto.
-
-classes: Clases principales como Book.php, Author.php, Category.php, Library.php, y Loan.php.
-controllers: Controladores para manejar la lógica de negocio, como BookController.php, AuthorController.php, CategoryController.php, y LoanController.php.
-json: Archivos JSON para almacenar datos, como books.json y loans.json.
-public: Contiene los archivos accesibles públicamente.
-
-css: Archivos de estilos CSS.
-img: Imágenes utilizadas en el proyecto.
-js: Archivos JavaScript.
-PHP files: Archivos PHP para diferentes funcionalidades como addBook.php, adminBooks.php, deleteBook.php, editBook.php, finishLoans.php, header.php, index.php, increaseExistence.php, listBooks.php, loanBook.php, loginAdmin.php, loginStudent.php, y footer.php.
-README.md: Archivo de documentación del proyecto.
-
-config.php: Archivo de configuración del proyecto.
-´´´
-
 ## Requisitos
 
 - PHP 8
